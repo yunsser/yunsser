@@ -23,11 +23,12 @@
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
 </div>
 <div align="center">
-  <Strong><h3>☁️SNS list☁️</h3></Strong>
+  <Strong><h3>☁️visitors☁️</h3></Strong>
 <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonseocho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
  </div>
  
  <div align="center">
+ <Strong><h3>☁️SNS list☁️</h3></Strong>
  <a href="https://www.instagram.com/ly_seo/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/ly_seo/" ></a>
 <a href="https://open.kakao.com/o/s8wc2vce"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/s8wc2vce"</a>
   <br><br>
