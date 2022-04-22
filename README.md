@@ -23,7 +23,7 @@
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
 </div>
 <div align="center">
-  <Strong><h3>☁️visitors☁️</h3></Strong>
+  <Strong><h3>☀️visitors☀️</h3></Strong>
 <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonseocho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
  </div>
  
