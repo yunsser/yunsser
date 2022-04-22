@@ -8,8 +8,7 @@
 </div>
 <div align="center">
 <!--a href="mailto:주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:주소"--></a>
-<a href="mailto:lyuns0813@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:lyuns0813@naver.com"></a>
-<a href="https://open.kakao.com/o/s8wc2vce"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/s8wc2vce"</a> 
+<a href="mailto:lyuns0813@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:lyuns0813@naver.com"></a> 
 </div>
 <div align="center">
   <Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
@@ -26,6 +25,7 @@
 <div align="center">
   <Strong><h3>☁️SNS list☁️</h3></Strong>
 <a href="https://www.instagram.com/ly_seo/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/ly_seo/" ></a> <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonseocho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
+<a href="https://open.kakao.com/o/s8wc2vce"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/s8wc2vce"</a>
   <br><br>
 </div>
 
