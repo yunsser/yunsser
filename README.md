@@ -9,7 +9,7 @@
 <div align="center">
 <!--a href="mailto:주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:주소"--></a>
 <a href="mailto:lyuns0813@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:lyuns0813@naver.com"></a>
-<!--a href="주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="주소"--></a>
+<!--a href="주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="주소"--></a> 
 </div>
 <div align="center">
   <Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
@@ -30,12 +30,12 @@
 </div>
 
 <p align="center">
-  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yeonseocho&theme=dracula&layout=compact"/>
-  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseocho&theme=dracula&layout=compact&langs_count=10"/>
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yunsser&theme=dracula&layout=compact"/>
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsser=dracula&layout=compact&langs_count=10"/>
 
 </p>
 
 <p align="center">
  <br>
-<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=yeonseocho&theme=flat&column=7&align=center"/>
+<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=yunsser&theme=flat&column=7&align=center"/>
 </p>
