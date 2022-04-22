@@ -31,7 +31,7 @@
 
 <p align="center">
   <img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=yunsser&theme=dracula&layout=compact"/>
-  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsser=dracula&layout=compact&langs_count=10"/>
+  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsser&theme=dracula&layout=compact&langs_count=10"/>
 
 </p>
 
