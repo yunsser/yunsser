@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <Strong><h3>☀️visitors☀️</h3></Strong>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunsser&count_bg=%23E1C0FF&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunsser&count_bg=%23E1C0FF&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
  </div>
  
  <div align="center">
