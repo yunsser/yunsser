@@ -34,8 +34,5 @@
   <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsser&theme=dracula&layout=compact&langs_count=10"/>
 
 </p>
+  
 
-<-- <p align="center">
- <br>
-<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=yunsser&theme=flat&column=7&align=center"/>
-</p> -->
