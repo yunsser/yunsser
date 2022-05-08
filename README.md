@@ -17,6 +17,7 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <p>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Python&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Python&logoColor=white">
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
