@@ -33,7 +33,7 @@
  <Strong><h3>☁️SNS list☁️</h3></Strong>
  <a href="https://www.instagram.com/ly_seo/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/ly_seo/" ></a>
 <a href="https://open.kakao.com/o/s8wc2vce"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/s8wc2vce"</a>
-<a href="https://velog.io/@yunsser"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yunsser" ></a>
+<a href="https://velog.io/@yunsser"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yunsser" ></a>
   <br><br>
 </div>
 
